@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdamAfana
-- 👀 I’m interested in Video Game Development  
+- 👀 I’m interested in AI & Computer Software Development 
 - 🌱 I’m currently learning Computer Systems
 - 💞️ I’m looking to collaborate on all things software!
-- 📫 Reach me through email: adamafana@dcmail.ca  
+- 📫 Reach me through email: afanadam403@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
